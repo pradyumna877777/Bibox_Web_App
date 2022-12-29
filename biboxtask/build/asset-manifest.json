@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.493ba4e8.css",
+    "main.js": "/static/js/main.00b19cdd.js",
+    "static/js/787.5806239e.chunk.js": "/static/js/787.5806239e.chunk.js",
+    "static/media/computer-allparts-01.png": "/static/media/computer-allparts-01.64a854f280a44ba7143b.png",
+    "static/media/ups.jpg": "/static/media/ups.a653afe60ed1126ce9f1.jpg",
+    "static/media/monitor-01.png": "/static/media/monitor-01.16b628aefcce2f968cfb.png",
+    "static/media/cpu-01.png": "/static/media/cpu-01.42b6952689ec6661eabb.png",
+    "static/media/keyboard-01.png": "/static/media/keyboard-01.37644d7f9bbd04a2f9de.png",
+    "index.html": "/index.html",
+    "main.493ba4e8.css.map": "/static/css/main.493ba4e8.css.map",
+    "main.00b19cdd.js.map": "/static/js/main.00b19cdd.js.map",
+    "787.5806239e.chunk.js.map": "/static/js/787.5806239e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.493ba4e8.css",
+    "static/js/main.00b19cdd.js"
+  ]
+}

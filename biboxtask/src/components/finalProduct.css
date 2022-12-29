@@ -1,0 +1,25 @@
+.cpu{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+.monitor{
+    position: absolute;
+    left: 300px;
+    top: 100px;
+}
+.ups{
+    position: absolute;
+    left: 600px;
+    top: 100px;
+}
+.keyboard{
+    position: absolute;
+    left: 280px;
+    top: 400px;
+}
+.mouse{
+    position: absolute;
+    left:580px;
+    top: 400px;
+}
